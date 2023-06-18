@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <city size="Big">
+        <adress>RandomAdress1</adress>
+        <house>4</house>
+        <name>Kiev</name>
+    </city>
+    <city size="Medium">
+        <adress>RandomAdress2</adress>
+        <house>5</house>
+        <name>Cherkasy</name>
+    </city>
+</catalog>
